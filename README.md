@@ -1,3 +1,7 @@
+
+<br>
+<br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ef&size=35&center=true&vCenter=true&width=1500&lines=Olá,+meu+nome+é+Jhon+Victor;Tenho+17+anos;Sou+Brasileiro;E+estudo+Desenvolvimento+de+Sistemas+Na+ETE+Ministro+Fernando+Lyra;+Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <br>

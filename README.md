@@ -2,7 +2,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ef&size=40&center=true&vCenter=true&width=1500&lines=Olá,+meu+nome+é+Jhon+Victor;Tenho+19+anos;Estudo+Ciência+da+Computação+Na+Unicap;+Seja+Bem+Vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ef&size=40&center=true&vCenter=true&width=1500&lines=Olá,+meu+nome+é+Jhon+Victor;Tenho+19+anos;Estudo+Ciência+da+Computação+Na+Unicap;+Seja+Bem-Vindo!)](https://git.io/typing-svg)
 <br>
 <br>
 

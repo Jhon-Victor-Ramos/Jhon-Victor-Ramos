@@ -9,7 +9,7 @@
  <div aling="center">
    <a href="https://github.com/Jhon-Victor-Ramos">
    <img width="49%" height="190px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jhon-Victor-Ramos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jhon-Victor-Ramos&layout=compact&langs_count=6&theme=dracula"/>
+   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jhon-Victor-Ramos&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>

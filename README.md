@@ -5,7 +5,7 @@
   
   <source media="(prefers-color-scheme: light)" srcset="Logo%20Light%20Mode.svg">
   
-  <img align="right" height="250" src="Logo%20Dark%20Mode.svg" alt="Logo JV">
+  <img align="right" height="150" src="Logo%20Dark%20Mode.svg" alt="Logo JV">
 </picture>
 <!-- <img align="right" height="160" src="https://i.imgflip.com/65efzo.gif" alt="typing cat" /> -->
 

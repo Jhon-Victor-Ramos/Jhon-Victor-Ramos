@@ -1,18 +1,20 @@
-<h2 align="left">Olá 👋! Sou Jhon Victor, Desenvolvedor e Pesquisador.</h2>
+<h2 align="center">Olá 👋! Sou Jhon Victor, Desenvolvedor e Pesquisador.</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="LINK_DA_LOGO_BRANCA.svg">
-  <source media="(prefers-color-scheme: light)" srcset="LINK_DA_LOGO_PRETA.svg">
-  <img align="right" height="160" src="LINK_DA_LOGO_BRANCA.svg" alt="Minha Logo JV">
+  <source media="(prefers-color-scheme: dark)" srcset="Logo%20Dark%20Mode.svg">
+  
+  <source media="(prefers-color-scheme: light)" srcset="Logo%20Light%20Mode.svg">
+  
+  <img align="right" height="200" src="Logo%20Dark%20Mode.svg" alt="Logo JV">
 </picture>
 <!-- <img align="right" height="160" src="https://i.imgflip.com/65efzo.gif" alt="typing cat" /> -->
 
 ### 👨‍💻 Sobre mim
 - 🎓 Estudante do 4º período de Ciência da Computação na **UNICAP**.
-- 🔬 Pesquisador (PIBIC) com foco em **Machine Learning** e Detecção de Falhas.
-- 💻 Desenvolvedor de soluções em **Visão Computacional** (Projeto Olhos de Águia / 5º CTA) e criador do SaaS **Ethos**.
-- 🚀 Ativo na comunidade tech: Instrutor de minicursos (Python e Git) e voluntário em Hackathons.
-- 🎸 Fora das telas: Músico autodidata (violão e canto) e dedicado à musculação e alta performance.
+- 🔬 Pesquisador (PIBIC) em Machine Learning focado em detecção de falhas.
+- 🐍 Desenvolvendo o projeto de visão computacional Olhos de Águia para o 5º CTA.
+- 🎸 Curto música, toco violão e canto (autodidata)
+- 🏋️‍♂️/🎮 Gosto de treinar e jogar Minecraft.
 
 <br clear="both">
 

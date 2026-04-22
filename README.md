@@ -7,7 +7,6 @@
   
   <img align="right" height="250" src="Logo%20Dark%20Mode.svg" alt="Logo JV">
 </picture>
-<!-- <img align="right" height="160" src="https://i.imgflip.com/65efzo.gif" alt="typing cat" /> -->
 
 ### 👨‍💻 Sobre mim
 - 🎓 Estudante do 4º período de Ciência da Computação na **UNICAP**.
@@ -42,10 +41,19 @@
   <a href="mailto:jhon.vrmartins@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  <a href="https://discordapp.com/users/926291219808399370" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=_martins827&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>
 
 <br>
 
+### 🐍 Minhas Contribuições
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jhon-Victor-Ramos/Jhon-Victor-Ramos/output/github-contribution-grid-snake.svg" alt="Animação da Cobrinha" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhon-Victor-Ramos/Jhon-Victor-Ramos/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhon-Victor-Ramos/Jhon-Victor-Ramos/output/github-contribution-grid-snake.svg">
+    <img alt="Animação da Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/Jhon-Victor-Ramos/Jhon-Victor-Ramos/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>

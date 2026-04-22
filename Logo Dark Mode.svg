@@ -3,9 +3,9 @@
     <filter id="ultra_soft_glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="15" result="coloredBlur"/>
       
-      <feColorMatrix in="coloredBlur" type="matrix" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.60 0" result="softAura"/>
+      <feColorMatrix in="coloredBlur" type="matrix" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" result="softAura"/>
       
-      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" result="centralAura"/>
+      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 2 0" result="centralAura"/>
       
       <feMerge>
         <feMergeNode in="softAura"/>

@@ -24,11 +24,14 @@
   </a>
 </div>
 
+
+<!-- ENQUANTO AINDA NÃO SUBO AS ESTATÍSTICAS
 ### 📊 Estatísticas
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jhon-Victor-Ramos&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" alt="stats graph" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhon-Victor-Ramos&layout=compact&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
 </div>
+-->
 
 ### 📫 Contato
 <div align="left">

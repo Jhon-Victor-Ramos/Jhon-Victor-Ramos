@@ -9,11 +9,11 @@
 </picture>
 
 ### 👨‍💻 Sobre mim
-- 🎓 Estudante do 4º período de Ciência da Computação na **UNICAP**.
-- 🔬 Pesquisador (PIBIC) em Machine Learning focado em detecção de falhas.
-- 🐍 Desenvolvendo o projeto de visão computacional Olhos de Águia para o 5º CTA.
+- 🎓 Graduando em Ciência da Computação no **Centro de Informática (CIn) da UFPE**
+- 🔬 Realizei uma pesquisa (PIBIC) em Machine Learning para detecção de falhas
+- 🚁 Tech Lead do projeto de hardware e visão computacional <a style="font-style: italic;" target="_blank" href="https://github.com/Jhon-Victor-Ramos/projeto-olhos-de-aguia">Olhos de Águia</a> (parceria com o 5º CTA do Exército Brasileiro)
 - 🎸 Curto música, toco violão e canto (autodidata)
-- 🏋️‍♂️/🎮 Gosto de treinar e jogar Minecraft.
+- 🏋️‍♂️/🎮 Gosto de treinar e jogar Minecraft. 
 
 <br clear="both">
 
@@ -28,8 +28,8 @@
 <!-- ENQUANTO AINDA NÃO SUBO AS ESTATÍSTICAS
 ### 📊 Estatísticas
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jhon-Victor-Ramos&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" alt="stats graph" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhon-Victor-Ramos&layout=compact&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
+  <img height="160" src="https://github.readme-stats.vercel.app/api?username=Jhon-Victor-Ramos&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" alt="stats graph" />
+  <img height="160" src="https://github.readme-stats.vercel.app/api/top-langs?username=Jhon-Victor-Ramos&layout=compact&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
 </div>
 -->
 
